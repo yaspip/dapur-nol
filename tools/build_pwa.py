@@ -13,7 +13,18 @@ head=f'''<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Dapur Nol</title>
-<meta name="description" content="Panduan mengenal makanan dari nol: bahan, rasa, resep, dan belanja.">
+<meta name="description" content="Panduan mengenal makanan dari nol: 100 resep pemula, 133 bahan dan bumbu, Kitchen Gems, dan tips belanja di pasar.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Dapur Nol">
+<meta property="og:title" content="Dapur Nol: panduan mengenal makanan dari nol">
+<meta property="og:description" content="100 resep pemula, 133 bahan dan bumbu, tips belanja di pasar. Gratis, bisa dipasang di HP dan dibuka offline.">
+<meta property="og:url" content="https://yaspip.github.io/dapur-nol/">
+<meta property="og:image" content="https://yaspip.github.io/dapur-nol/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Ilustrasi bawang putih, tomat, telur, dan cabai di atas talenan, dengan tulisan Dapur Nol">
+<meta property="og:locale" content="id_ID">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#F5F1E8">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
